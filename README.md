@@ -4,4 +4,4 @@ created by Reece Davies
 this is added to see if everything works.
 ![workflow](https://github.com/ReeceDavies123/sem/actions/workflows/main.yml/badge.svg)
 
-meant to add some stuff
+meant to add some stuff to see if its working :(
